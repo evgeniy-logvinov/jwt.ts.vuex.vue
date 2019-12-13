@@ -32,3 +32,6 @@ yarn run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Vuex typescript
+See [Configuration Reference](https://championswimmer.in/vuex-module-decorators/pages/installation.html).
