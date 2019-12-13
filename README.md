@@ -35,3 +35,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Vuex typescript
 See [Configuration Reference](https://championswimmer.in/vuex-module-decorators/pages/installation.html).
+
+### Axios
+See [Configuration Reference](https://github.com/axios/axios).
